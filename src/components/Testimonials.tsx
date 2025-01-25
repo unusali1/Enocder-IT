@@ -1,4 +1,3 @@
-import React from "react";
 import { StarIcon } from "@heroicons/react/24/solid";
 import patner1 from "../assets/patner/patner1.png";
 import patner2 from "../assets/patner/patner2.png";

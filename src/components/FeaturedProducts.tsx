@@ -1,4 +1,3 @@
-import React from "react";
 import { StarIcon, HeartIcon } from "@heroicons/react/24/solid";
 import product1 from "../assets/products/product1.png";
 import product2 from "../assets/products/product2.png";

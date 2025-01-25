@@ -1,4 +1,3 @@
-import React from "react";
 import music from "../assets/music.png";
 import tools from "../assets/vaadin_tools.png";
 import carbonDelevery from "../assets/carbon_delivery.png";
