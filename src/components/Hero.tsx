@@ -67,7 +67,7 @@ const Hero = () => {
             <img
               src={home2}
               alt="TOPDON PHOENIX ELITE"
-              className="sm:h-[450px] h-[200px] w-[400px] "
+              className="sm:h-[450px] h-full w-[600px] "
             />
           </div>
         </div>

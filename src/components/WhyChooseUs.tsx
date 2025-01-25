@@ -34,12 +34,13 @@ const WhyChooseUs = () => {
     <>
       <section className="bg-[#1a1f2b] text-white py-16">
         <div className="container mx-auto px-4">
-          <div className=" mb-12">
-            <h2 className="text-3xl font-bold mt-2 italic ">WHY CHOOSE US?</h2>
+          <div className="mb-12 text-center sm:text-left">
+            <h2 className="text-3xl font-bold mt-2 italic">WHY CHOOSE US?</h2>
           </div>
+
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
             {features.map((feature, index) => (
-              <div key={index} className="flex flex-col py-6">
+              <div key={index} className="flex flex-col py-2">
                 <div className="flex p-4  mb-4">
                   <img src={feature.icon} alt="logo" className="h-12 " />
                   <h2 className="font-bold text-[27px] ml-2">
