@@ -48,7 +48,7 @@ const Hero = () => {
 
       <div className="container mx-auto px-8 sm:py-12 py-2 relative z-10">
         <div className="flex items-center justify-between">
-          <div className="sm:max-w-lg max-w-3/2 sm:mt-0 mt-4">
+          <div className="sm:max-w-lg max-w-3/2 sm:mt-0 mt-4 sm:ml-4">
             <h1 className="sm:text-4xl text-[14px] sm:font-bold font-semibold sm:mb-6 mb-1">
               TOPDON PHOENIX ELITE
             </h1>
@@ -67,7 +67,7 @@ const Hero = () => {
             <img
               src={home2}
               alt="TOPDON PHOENIX ELITE"
-              className="sm:h-[450px] h-full w-[600px] "
+              className="sm:h-[450px] h-full sm:w-full w-[600px] "
             />
           </div>
         </div>
